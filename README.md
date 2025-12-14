@@ -20,6 +20,7 @@ I am an Full Stack Developer focused on scalable, high-impact solutions, with ex
 ## My Skills Include
 
 <h4> Languages </h4>
+<img align="right" width=350px height=350px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,9 +34,6 @@ I am an Full Stack Developer focused on scalable, high-impact solutions, with ex
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="">
-  <img src="">
-  <img src="">
 </span>
 
 <h4> Databases </h4>
@@ -43,7 +41,6 @@ I am an Full Stack Developer focused on scalable, high-impact solutions, with ex
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
-
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -56,5 +53,13 @@ I am an Full Stack Developer focused on scalable, high-impact solutions, with ex
 <a href="https://www.linkedin.com/in/francisco-javier-fabian/">
    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
 </a>
+
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Francisco-Javier-Fabian&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Francisco-Javier-Fabian)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Francisco-Javier-Fabian&theme=material-palenight)](https://github.com/Francisco-Javier-Fabian)
+</div>
 
 
