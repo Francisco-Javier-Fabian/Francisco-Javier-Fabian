@@ -10,7 +10,7 @@
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>&nbsp;***About me***
 
-I am Full Stack Developer focused on scalable, high-impact solutions, with experience in HTML, CSS, JavaScript, Node.js, React, Tailwind and MongoDB. Data Science student with strong skills in Python, SQL and R. Proficient in Git and GitHub. Analytical, results-driven and a continuous learner. Outside of work, I enjoy reading, drawing and sports, strengthening creativity and consistency.
+I am a Full Stack Developer focused on scalable, high-impact solutions, with experience in HTML, CSS, JavaScript, Node.js, React, Tailwind, and MongoDB. I am also a Data Science student with strong skills in Python, SQL, and R. I am proficient in Git and GitHub. Analytical, results-driven, and a continuous learner, I strive for excellence in all my projects. Outside of work, I enjoy reading, drawing, and sports, which help strengthen my creativity and consistency.
 * **I am interested in Web designing, machine learning, and Big Data**
 - ✅ I currently want to learn ...
   - Next js
