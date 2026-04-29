@@ -23,7 +23,7 @@ En este recorrido, no solo se busca aprender a aplicar algoritmos, sino también
   - Vildoza, Francisco
   - Fabián, Francisco
 - Outside of work, 📖 I enjoy reading, 🖌️ drawing and sports, strengthening creativity and consistency.
-- 📨 Reach out to me at: <a href="milan.balcarce@gmail.com">milan.balcarce@gmail.com</a>
+<!-- - 📨 Reach out to me at: <a href="milan.balcarce@gmail.com">milan.balcarce@gmail.com</a> ->
 ## Herraminetas usadas:
 
 <h4> Languages </h4>
